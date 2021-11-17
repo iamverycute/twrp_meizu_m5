@@ -8,4 +8,4 @@ Meizu M5 (魅蓝5) TWRP Port (MT6750)
 + if u have root, Use TWRP APP
 + Use Mediatek Flash Tool
 
-## 2021 By IMOE
+## ----2021 By 摸鱼姬----
