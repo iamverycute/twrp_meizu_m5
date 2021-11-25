@@ -5,7 +5,7 @@ Meizu M5 (魅蓝5) TWRP Port (MT6750)
 
 **How to flash?**
 
-+ Support Android 6+
++ Only Support Android 6+
 + if u have root, you can use [Official TWRP App](https://twrp.me/app/) or ```adb shell dd if=/path/to/twrp.img of=/path/to/recovery```
 + Use Mediatek Flash Tool
 
